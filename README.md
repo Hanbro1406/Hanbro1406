@@ -1,5 +1,3 @@
-git clone https://github.com/Hanbro1406/readme.git
-cd Hanbro1406
 <!-- ============================================================
      HANSEL'S GITHUB PROFILE README
      ============================================================ -->
