@@ -83,47 +83,6 @@ currently  :
 ---
 
 ---
-
-<!-- ── FEATURED PROJECTS ── -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🔗 Project One
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
-
-</td>
-<td width="50%" align="center">
-
-### 🔗 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🔗 Project Three
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_3&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3)
-
-</td>
-<td width="50%" align="center">
-
-### 🔗 Project Four
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_4&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ── LEADERSHIP & ACHIEVEMENTS ── -->
 ## 🏆 Leadership & Achievements
 
