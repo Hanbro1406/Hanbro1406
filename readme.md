@@ -46,21 +46,6 @@ currently  :
 
 ---
 
-<!-- ── SPOTIFY NOW PLAYING ── -->
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://novatorem-hansel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-> **⚙️ Setup:** Fork [novatorem/novatorem](https://github.com/novatorem/novatorem), deploy to Vercel,
-> add `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `REFRESH_TOKEN` as env vars.
-> Replace the URL above with your own Vercel deployment URL.
-
-</div>
-
----
-
 <!-- ── TECH STACK ── -->
 ## 🛠️ Tech Stack
 
@@ -96,53 +81,6 @@ currently  :
 </div>
 
 ---
-
-<!-- ── GITHUB STATS — GRID LAYOUT ── -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="70%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ── WAKATIME STATS ── -->
-## ⏱️ WakaTime Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=compact&langs_count=10" width="70%" />
-
-> **⚙️ Setup:** Create a free account at [wakatime.com](https://wakatime.com), install the WakaTime plugin
-> in your editor (VS Code, JetBrains, etc.), then replace `YOUR_WAKATIME_USERNAME` above.
-> Also add your WakaTime API key as a GitHub secret (`WAKATIME_API_KEY`) if you use the stats Action.
-
-</div>
 
 ---
 
